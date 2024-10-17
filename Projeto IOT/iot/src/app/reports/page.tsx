@@ -7,7 +7,7 @@ export default function Report () {
         <div className="flex">
             <Sidebar />
             <div className="flex-1">
-            <Header title="Relatórios"/>
+            <Header title="Relatórios" username="Guilherme"/>
             <main className="flex-1 p-4">
               <h1>Relatórios</h1>
             </main>

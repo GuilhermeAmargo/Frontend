@@ -34,7 +34,7 @@ export default function Home() {
     <div className="flex">
       <Sidebar />
       <div className="flex-1">
-        <Header title="Dashboard de Produção" />
+        <Header title="Dashboard de Produção" username="Guilherme"/>
         <main className="flex-1 p-4">
           <h1 className="text-2xl font-bold">Monitoramento em Tempo Real</h1>
 

@@ -7,7 +7,7 @@ export default function Sensor () {
         <div className="flex">
             <Sidebar />
             <div className="flex-1">
-            <Header title="Sensores"/>
+            <Header title="Sensores" username="Guilherme"/>
             <main className="flex-1 p-4">
               <h1>Lista de sensores</h1>
             </main>
